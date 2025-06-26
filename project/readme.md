@@ -1,1 +1,1 @@
-executable file
+All files
